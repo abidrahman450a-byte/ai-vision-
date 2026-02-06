@@ -1,0 +1,8 @@
+{
+  "name": "AI Vision",
+  "description": "Nidaamka falanqaynta sawirada iyo muuqaalada ee casriga ah.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
